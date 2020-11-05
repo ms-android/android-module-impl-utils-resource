@@ -38,3 +38,5 @@ dependencies {
 
     implementation "com.ms:android-module-super:latest-release"
 }
+
+apply from:'./maven_publish.gradle'
